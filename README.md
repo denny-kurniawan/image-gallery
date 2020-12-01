@@ -1,2 +1,2 @@
 # Denny Kurniawan
-#https://denny-kurniawan.github.io/image-gallery/
+https://denny-kurniawan.github.io/image-gallery/
